@@ -40,8 +40,9 @@
 
 ### 🎥 デモ動画
 
-<img width="100%" src="https://github.com/user-attachments/assets/ac3f4b57-43b0-450d-9db8-a8df511c557e"/>
-
+<p align="center">
+  <img width="70%" src="https://github.com/user-attachments/assets/ac3f4b57-43b0-450d-9db8-a8df511c557e"/>
+</p>
 
 ## 📌 トラブルシューティング
 
